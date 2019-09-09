@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>789811_mrp_bk_l.jpg</filename>
+	<path>C:\Users\nlota\OneDrive\Documents\objectDetection\models\research\object_detection\images\train\789811_mrp_bk_l.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoes_men_chelsea_chelseaboots_suede_none_none_black_none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>58</ymin>
+			<xmax>794</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

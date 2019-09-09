@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>declan_110756-v3-print_11417a97-02ee-47b6-9e0e-247282afe438_13.40.29.jpg</filename>
+	<path>C:\Users\nlota\OneDrive\Documents\objectDetection\models\research\object_detection\images\train\declan_110756-v3-print_11417a97-02ee-47b6-9e0e-247282afe438_13.40.29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoes_men_chelsea_chelseaboots_suede_none_none_black_none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>139</ymin>
+			<xmax>662</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

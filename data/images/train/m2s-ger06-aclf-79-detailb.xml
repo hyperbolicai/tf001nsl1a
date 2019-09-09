@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>m2s-ger06-aclf-79-detailb.jpg</filename>
+	<path>C:\Users\nlota\OneDrive\Documents\objectDetection\models\research\object_detection\images\train\m2s-ger06-aclf-79-detailb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoes_men_chelsea_chelseaboots_leather_none_none_black_none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>267</ymin>
+			<xmax>650</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

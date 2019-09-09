@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>12730190-4.jpg</filename>
+	<path>C:\Users\nlota\OneDrive\Documents\objectDetection\models\research\object_detection\images\test\12730190-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoes_men_chelsea_chelseaboots_suede_none_none_black_none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>259</ymin>
+			<xmax>773</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

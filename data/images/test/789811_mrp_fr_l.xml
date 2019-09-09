@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>789811_mrp_fr_l.jpg</filename>
+	<path>C:\Users\nlota\OneDrive\Documents\objectDetection\models\research\object_detection\images\test\789811_mrp_fr_l.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoes_men_chelsea_chelseaboots_suede_none_none_black_none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>128</ymin>
+			<xmax>634</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>
